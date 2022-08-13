@@ -1,1 +1,1 @@
-# remote
+# remote practice sessions
